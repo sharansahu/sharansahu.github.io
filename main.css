@@ -291,7 +291,6 @@ li{
 .about-heading h6{
   font-size: 2rem;
   font-weight: 300;
-
 }
 
 .profile-img{
@@ -300,13 +299,26 @@ li{
 
 }
 
+.spotify-heading {
+  margin-top: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 0;
+}
+
+.spotify-heading h6{
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+
 .about-details{
   flex: 1;
 
 }
 
 .social-media{
-  margin-top: 5rem;
+  margin-top: 3rem;
 
 }
 
@@ -361,7 +373,7 @@ li{
   margin-left: auto;
   margin-right: auto;
   margin-top: 2%;
-  margin-bottom: 5%;
+  margin-bottom: 3%;
   object-fit: cover;
   object-position: bottom;
 }
@@ -452,8 +464,12 @@ li{
   color: #2f67cd;
 }
 
+.spotify {
+  margin-top: 3rem;
+}
+
 .link_class{
-  margin: 0;
+  margin-bottom: 2rem;
   padding: 0;
   font-weight: bold;
   font-size: 17px;
