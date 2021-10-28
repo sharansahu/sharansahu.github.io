@@ -338,6 +338,10 @@ li{
 .fa-linkedin-in:hover{
   color: #04669A;
 }
+
+.fa-github:hover{
+  color: #00CCFF;
+}
 /*End about*/
 
 /*Start services*/
