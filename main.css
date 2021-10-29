@@ -264,8 +264,6 @@ li{
   }
 }
 
-
-
 /*End header*/
 
 /*Start about*/
@@ -296,7 +294,6 @@ li{
 .profile-img{
   flex: 1;
   margin-right: 5rem;
-
 }
 
 .spotify-heading {
@@ -314,12 +311,10 @@ li{
 
 .about-details{
   flex: 1;
-
 }
 
 .social-media{
   margin-top: 3rem;
-
 }
 
 .social-media i{
@@ -329,7 +324,7 @@ li{
 
 .fa-instagram:hover{
   color: #C31A1E;
-}
+}z
 
 .fa-twitter-square:hover{
   color: #00B6F1;
