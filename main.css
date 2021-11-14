@@ -339,8 +339,93 @@ li{
 }
 /*End about*/
 
-/*Start services*/
-/*End services*/
+
+/*Start Education*/
+
+.education-container {
+  width: 90%;
+  max-width: 120rem;
+  height: 100%;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+}
+
+.berkeley-logo-container {
+  display: inline;
+  position: relative;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.berkeley-logo-container img{
+  display: inline-flex;
+  width: 15%;
+  max-width: 9rem;
+  height: 15%;
+  max-height: 9rem;
+  position: relative;
+}
+
+.education-header-container {
+  display: inline-block;
+  margin-left: 1rem;
+  position: relative;
+  text-align: left;
+  vertical-align: top;
+}
+
+.education-header-container h1{
+  font-size: 2rem;
+  font-weight: 300;
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.education-header-container h2{
+  font-size: 1.5rem;
+  font-weight: 300;
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.education-header-container h3{
+  font-size: 1.1rem;
+  font-weight: 300;
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.coursework {
+  width: 90%;
+  max-width: 120rem;
+  height: 100%;
+  margin: 2rem 0rem auto;
+  position: relative;
+  text-align: center;
+}
+
+.coursework h1{
+  font-size: 3rem;
+  font-weight: 2000;
+  position: relative;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+.course-list {
+  font-size: 1.5rem;
+  list-style: inside;
+  font-weight: 300;
+  position: relative;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+
+
+
+/* End Education*/
 
 /*Start portfolio*/
 
@@ -367,7 +452,7 @@ li{
 
 .image{
   position: relative;
-  max-width:  100%;
+  max-width:  50%;
   max-height: 50%;
   margin-left: auto;
   margin-right: auto;
